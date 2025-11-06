@@ -73,5 +73,5 @@
 
 ## Author
 
-- Author: [notaskun](https://github.com/skunpro) - Back-End / [victoria](https://github.com/deryys) - Front-End
-- Contact: [Discord](https://discord.gg/404devs)
+- Author: [notaskun](https://github.com/skunpro) - Back-End
+- Contact: notaskun#0
